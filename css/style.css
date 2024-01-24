@@ -2,6 +2,10 @@ body{
     font-family: 'Lora', serif;
 }
 
+.uppercase{
+    text-transform: uppercase;
+}
+
 .banner-container{
     background-color: aquamarine;
 }
@@ -9,4 +13,25 @@ body{
 .banner-column{
     background-color: cornflowerblue;
     padding: 50px;
+}
+.navbar-container{
+    background-color: cornflowerblue;
+}
+.about-container{
+    background-color: beige;
+}
+.education-container{
+    background-color: lightgreen;
+}
+.color1{
+    color: #EE90EE;
+}
+.circle{
+    height: 150px;
+    width: 150px;
+    background-color:#EE90EE ;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: #EE90EE;
 }
